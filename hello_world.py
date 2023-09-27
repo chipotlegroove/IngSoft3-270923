@@ -1,2 +1,2 @@
 while True:
-    print("buenos dias")
+    print("around the world")
